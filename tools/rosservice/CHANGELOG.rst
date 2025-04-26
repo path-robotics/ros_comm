@@ -2,6 +2,9 @@
 Changelog for package rosservice
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.17.0 (2024-09-13)
 -------------------
 * Fixed uninitialized Time usage in rosservice call (`#2369 <https://github.com/ros/ros_comm/issues/2369>`_)
