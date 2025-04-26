@@ -2,8 +2,8 @@
 Changelog for package rospy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.17.1 (2025-04-26)
+-------------------
 * wait_for_topic support topic remapping (`#2159 <https://github.com/ros/ros_comm/issues/2159>`_)
 * support `rosbag play --loop` in `rospy.Timer` (`#2257 <https://github.com/ros/ros_comm/issues/2257>`_)
 * Add bool return to _base_logger, log* functions (`#2335 <https://github.com/ros/ros_comm/issues/2335>`_)

@@ -2,8 +2,8 @@
 Changelog for package topic_tools
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.17.1 (2025-04-26)
+-------------------
 * Update topic_tools relay_field to Python 3 (`#2253 <https://github.com/ros/ros_comm/issues/2253>`_)
 * Fix error C3861: 'usleep': identifier not found on Windows (`#2383 <https://github.com/ros/ros_comm/issues/2383>`_)
 * Contributors: RyanDMott, Tobias Fischer

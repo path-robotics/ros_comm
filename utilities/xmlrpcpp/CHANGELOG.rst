@@ -2,8 +2,8 @@
 Changelog for package xmlrpcpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.17.1 (2025-04-26)
+-------------------
 * fix char signedness issue for test_base64 on ARM and RISC-V (`#2205 <https://github.com/ros/ros_comm/issues/2205>`_)
 * Log errors in XmlRpcpp (`#2277 <https://github.com/ros/ros_comm/issues/2277>`_)
 * Maintain constness of accessed XmlRpcValue struct (`#2315 <https://github.com/ros/ros_comm/issues/2315>`_)
