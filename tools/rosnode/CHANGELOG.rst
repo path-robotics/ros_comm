@@ -2,8 +2,8 @@
 Changelog for package rosnode
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.17.2 (2025-05-02)
+-------------------
 * rosnode: Fix unclosed socket in rosnode_ping command (`#2381 <https://github.com/ros/ros_comm/issues/2381>`_)
 * Contributors: Ricardo Marques
 
