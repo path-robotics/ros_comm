@@ -2,6 +2,11 @@
 Changelog for package xmlrpcpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Disable XmlRpcServer::enoughFreeFDs (`#2388 <https://github.com/ros/ros_comm/pull/2388>`_)
+* Contributors: Jochen Sprickerhof
+
 1.17.2 (2025-05-02)
 -------------------
 
