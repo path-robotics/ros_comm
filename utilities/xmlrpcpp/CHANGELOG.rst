@@ -2,8 +2,8 @@
 Changelog for package xmlrpcpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.17.4 (2025-05-19)
+-------------------
 * Revert "Maintain constness of accessed XmlRpcValue struct (`#2315 <https://github.com/ros/ros_comm/issues/2315>`_)" (`#2391 <https://github.com/ros/ros_comm/issues/2391>`_)
 * Contributors: Shane Loretz
 
