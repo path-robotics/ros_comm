@@ -2,6 +2,11 @@
 Changelog for package xmlrpcpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.17.5 (2025-09-05)
+-------------------
+* Revert "Log errors in XmlRpcpp (#2277)"
+* Contributors: Josiah Lansford
+
 1.17.4 (2025-05-19)
 -------------------
 * Revert "Maintain constness of accessed XmlRpcValue struct (`#2315 <https://github.com/ros/ros_comm/issues/2315>`_)" (`#2391 <https://github.com/ros/ros_comm/issues/2391>`_)
